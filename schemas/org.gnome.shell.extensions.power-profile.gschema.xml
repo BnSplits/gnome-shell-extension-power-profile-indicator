@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schemalist>
+  <schema path="/org/gnome/shell/extensions/power-profile-indicator/" id="org.gnome.shell.extensions.power-profile-indicator">
+
+    <key type="b" name="show-balanced">
+      <default>true</default>
+      <summary>Show icon when power profile is balanced</summary>
+    </key>
+
+  </schema>
+</schemalist>

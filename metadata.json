@@ -1,0 +1,9 @@
+{
+  "name": "Power profile indicator",
+  "description": "Add current power profile in panel's system icons. Very light extension.",
+  "uuid": "power-profile-indicator@bnsplits.github.com",
+  "shell-version": ["48"],
+  "settings-schema": "org.gnome.shell.extensions.power-profile",
+  "url": "https://github.com/BnSplits/gnome-shell-extension-power-profile-indicator",
+  "version": 1
+}
